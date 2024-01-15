@@ -1,0 +1,1 @@
+`which node` show the node environment directory. Ex output: /usr/bin/node
